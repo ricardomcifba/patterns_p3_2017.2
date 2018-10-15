@@ -20,7 +20,12 @@ public class Transferencia extends IOperacao {
 
     @Override
     protected void transfer() {
-        System.out.println();
+        System.out.println("Transferencia executada");
+    }
+
+    @Override
+    protected void distransfer() {
+        System.out.println("Transferencia disfeita");
     }
     
 }

@@ -12,6 +12,8 @@ package observer.interfaces;
 public interface ISubject {
     
     public void addObserver( IObserver observer );
+    
+    public void remove(IObserver observer);
 
     //Devido a conflitos com os métodos em JAVA, o nome foi modificado para notifyObserver
     public void notifyObserver();
