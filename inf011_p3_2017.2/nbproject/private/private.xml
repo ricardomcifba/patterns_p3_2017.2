@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aluno/Desktop/INF011-20172-P3/src/observer/interfaces/IObserver.java</file>
+            <file>file:/C:/Users/Aluno/Desktop/INF011-20172-P3/src/command/interfaces/IOperacao.java</file>
+            <file>file:/C:/Users/Aluno/Desktop/INF011-20172-P3/src/cliente/Cliente.java</file>
+            <file>file:/C:/Users/Aluno/Desktop/INF011-20172-P3/src/observer/interfaces/ISubject.java</file>
+            <file>file:/C:/Users/Aluno/Desktop/INF011-20172-P3/src/observer/concretos/ObserverOperacao.java</file>
+            <file>file:/C:/Users/Aluno/Desktop/INF011-20172-P3/src/command/concretos/Transferencia.java</file>
+        </group>
+    </open-files>
+</project-private>
